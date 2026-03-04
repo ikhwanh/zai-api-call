@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.python-version
+
+# Python cache and local build artifacts
+*.py[cod]
+*.egg-info/
+build/
+dist/
